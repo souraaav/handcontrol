@@ -1,10 +1,5 @@
 # handcontrol
 
-# handcontrol
-
-
-
-
 # ✋ HandControl – Gesture-Based Mouse Controller
 
 HandControl is a Python-based computer vision project that enables users to control their mouse cursor using hand gestures captured via a webcam. By leveraging real-time hand tracking with MediaPipe and OpenCV, this project provides an intuitive, touchless interface for interacting with your computer.
