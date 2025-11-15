@@ -69,10 +69,12 @@ Make sure your webcam is connected and your hand is visible in the frame.
 ## 📸 Demo
 
 Demo picture 1
-<img width="1920" height="1200" alt="{CB4ED334-0C77-4100-80E3-AEE144627138}" src="https://github.com/user-attachments/assets/54d935e2-e00a-4369-ac22-19cf427ea67b" />
+<img width="1920" height="1200" alt="{34FF5BF4-BBB1-43FB-A52F-FFCB6014F882}" src="https://github.com/user-attachments/assets/0e069911-1c17-4152-88b9-e1832c59d847" />
+
 
 Demo picture 2
-<img width="1920" height="1200" alt="{598483EE-0A55-4DD9-AC33-91E8BD423C52}" src="https://github.com/user-attachments/assets/c9217a64-9420-44e7-a253-ceaec3bd5fb6" />
+<img width="1920" height="1200" alt="{EB790083-06DE-4126-B99D-8CD5F5B3FCDA}" src="https://github.com/user-attachments/assets/2e683a91-d8e4-430f-9455-f5c519cd36f1" />
+
 
 ---
 
