@@ -94,7 +94,8 @@ python main.py
 
 > Add a GIF or screenshot below to showcase gesture tracking
 
-![HandControl Demo](https://your-demo-image-link.com/handcontrol-demo.png)
+![HandControl Demo](<img width="1612" height="953" alt="{2A701D35-7DC8-4522-94DB-DAD808ED32FE}" src="https://github.com/user-attachments/assets/6c815920-09d9-43e9-b7a2-dbd38b5db7c5" />)
+
 
 ---
 
