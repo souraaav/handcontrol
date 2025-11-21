@@ -1,6 +1,4 @@
-Here’s a complete, professional `README.md` for your [HandControl](https://github.com/souraaav/handcontrol) project, styled to match your Snake Game README — no emojis, fully interactive, and with the metadata panel included:
 
----
 
 # HandControl – Real-Time Hand Gesture Recognition with Python
 
@@ -112,6 +110,3 @@ python main.py
 
 This project is released under the [Unlicense](LICENSE), placing it in the public domain.
 
----
-
-Let me know if you'd like help embedding a demo GIF, customizing the badges, or turning this into a Copilot Page for easier editing.
