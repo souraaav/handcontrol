@@ -9,7 +9,6 @@ Here’s a complete, professional `README.md` for your [HandControl](https://git
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/souraaav/handcontrol)  
 [![Made with Python | OpenCV | MediaPipe](https://img.shields.io/badge/Made%20with-Python%20%7C%20OpenCV%20%7C%20MediaPipe-blue)](https://github.com/souraaav/handcontrol)  
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-lightgrey)](LICENSE)  
-[![Demo Online](https://img.shields.io/badge/DEMO-ONLINE-blue?logo=google-chrome&logoColor=white)](https://your-handcontrol-demo-link.com)
 
 ---
 
