@@ -53,7 +53,7 @@ Custom module for hand detection and tracking. It:
 
 ---
 
-## Technologies Used
+## Tech Used
 
 - Python – Core programming language  
 - OpenCV – Real-time video processing  
