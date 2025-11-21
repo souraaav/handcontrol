@@ -62,7 +62,6 @@ Custom module for hand detection and tracking. It:
 
 ---
 
-## Getting Started
 
 ### Prerequisites
 
