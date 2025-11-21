@@ -88,7 +88,7 @@ python main.py
 
 [![Live Demo](https://img.shields.io/badge/DEMO-ONLINE-blue?style=for-the-badge)](https://your-handcontrol-demo-link.com)
 
-Demo<img width="1612" height="953" alt="{2A701D35-7DC8-4522-94DB-DAD808ED32FE}" src="https://github.com/user-attachments/assets/6c815920-09d9-43e9-b7a2-dbd38b5db7c5" />
+Screenshhot<img width="1612" height="953" alt="{2A701D35-7DC8-4522-94DB-DAD808ED32FE}" src="https://github.com/user-attachments/assets/6c815920-09d9-43e9-b7a2-dbd38b5db7c5" />
 
 
 ---
