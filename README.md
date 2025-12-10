@@ -7,7 +7,7 @@
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/souraaav/handcontrol)  
 [![Made with Python | OpenCV | MediaPipe](https://img.shields.io/badge/Made%20with-Python%20%7C%20OpenCV%20%7C%20MediaPipe-blue)](https://github.com/souraaav/handcontrol)  
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-red)](LICENSE)  
-
+<img src="https://tenor.com/eyddOsShsCt.gif" alt="Girl in a jacket" width="500" height="600">
 ---
 
 ## Summary
