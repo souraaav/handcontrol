@@ -7,6 +7,7 @@
 [![Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/souraaav/handcontrol)  
 [![Made with Python | OpenCV | MediaPipe](https://img.shields.io/badge/Made%20with-Python%20%7C%20OpenCV%20%7C%20MediaPipe-blue)](https://github.com/souraaav/handcontrol)  
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-red)](LICENSE)  
+<div class="tenor-gif-embed" data-postid="11529719" data-share-method="host" data-aspect-ratio="1.05769" data-width="100%"><a href="https://tenor.com/view/error-404-fail-gif-11529719">Error 404 GIF</a>from <a href="https://tenor.com/search/error-gifs">Error GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ---
 
